@@ -1,7 +1,7 @@
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-ello atguigu! hello git!
+hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
@@ -18,3 +18,4 @@ hello atguigu! hello git!
 用hot-fix分支修改了文件
 master分支修改了文件
 用hot-fix分支第二次修改了文件
+pull拉取文件
